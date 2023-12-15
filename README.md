@@ -1,1 +1,1 @@
-Pre-merge check action on auto merge enabled.
+Pre-merge check action triggered on event auto merge enabled.
