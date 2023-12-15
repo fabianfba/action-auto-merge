@@ -1,2 +1,2 @@
 # Goal
-Test pre-merge check triggered by auto_merge_enabled.
+Test pre-merge check triggered by auto_merge_enabled. 
